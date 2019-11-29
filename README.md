@@ -1,3 +1,3 @@
 # UIViewPreview
 
-A description of this package.
+Credit to and usage: https://nshipster.com/swiftui-previews/
